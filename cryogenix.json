@@ -1,0 +1,185 @@
+[
+    {
+        "url": "https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz",
+        "channels": [
+            "DreamWorksChannelAsia.us",
+            "EuronewsEnglish.fr",
+            "HBOSignatureAsia.sg",
+            "RTNews.ru",
+            "TheFilipinoChannelAsia.us",
+            "TLCSoutheastAsia.us",
+            "TV5MondeAsia.fr"
+        ]
+    },
+    {
+        "url": "https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz",
+        "channels": [
+            "ABCAustraliaAsia.au",
+            "BabyTV.uk",
+            "CBeebiesAsia.uk",
+            "Galaxy.id",
+            "GalaxyPremium.id",
+            "HBOFamilyAsia.sg",
+            "HBOSignatureAsia.sg",
+            "Kix.hk",
+            "Thrill.hk"
+        ]
+    },
+    {
+        "url": "https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml",
+        "channels": [
+            "CinemaxMalaysia.my",
+            "ParamountNetworkMalaysia.my"
+        ]
+    },
+    {
+        "url": "https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz",
+        "channels": [
+            "A2ZChannel11.ph",
+            "ANC.ph",
+            "CelestialMoviesPinoy.hk",
+            "CNNPhilippines.ph",
+            "GMATV.ph",
+            "GTV.ph",
+            "IBC13.ph",
+            "KapamilyaChannel.ph",
+            "PTV.ph",
+            "RockEntertainment.sg",
+            "RockExtreme.sg",
+            "TeleNovelaChannel.ph",
+            "VivaCinema.ph"
+        ]
+    },
+    {
+        "url": "https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml.gz",
+        "channels": [
+            "RTDocumentary.ru"
+        ]
+    },
+    {
+        "url": "https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz",
+        "channels" : [
+            "FashionTVAsia.fr",
+            "LoveNature.ca",
+            "SmithsonianChannelAsia.us"
+        ]
+    },
+    {
+        "url": "https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml.gz",
+        "channels": [
+            "TRTWorld.tr"
+        ]
+    },
+    {
+        "url": "https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz",
+        "channels": [
+            "MyxUSA.us",
+            "SariSariChannel.ph"
+        ]
+    },
+    {
+        "url": "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz",
+        "channels": [
+            "AMCEast.us",
+            "MTVLive.uk"
+        ]
+    },
+    {
+        "url": "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml",
+        "channels": [
+            "AFN",
+            "AlJazeeraEnglish",
+            "AnimalPlanet",
+            "Animax",
+            "ArirangTV",
+            "AXN",
+            "BBCEarth",
+            "BBCLifestyle",
+            "BBCWorldNews",
+            "beINSports",
+            "beINSports2",
+            "beINSports3",
+            "BloombergTV",
+            "Boomerang",
+            "CartoonNetwork",
+            "CCM",
+            "CelestialMovies",
+            "CGTN",
+            "CGTNDocumentary",
+            "CNA",
+            "CNBCAsia",
+            "CNN",
+            "CrimeInvestigation",
+            "CTIAsia",
+            "DiscoveryAsia",
+            "DiscoveryChannel",
+            "DMAX",
+            "DW",
+            "eGGNetwork",
+            "Eurosport",
+            "FightSports",
+            "FOXNews",
+            "France24",
+            "FoodNetwork",
+            "GolfChannel",
+            "HBO",
+            "HBOHits.id",
+            "HGTV",
+            "History",
+            "HITS",
+            "HITSMovies",
+            "K-Plus",
+            "KBSWorld",
+            "Lifetime",
+            "MoonbugKids",
+            "MTVAsia",
+            "NatGeoWild",
+            "NationalGeographic",
+            "Nickelodeon",
+            "NickJr",
+            "NHKWorldJapan",
+            "NHKWorldPremium",
+            "ONE",
+            "OutdoorChannel",
+            "ParamountNetwork",
+            "PremierSports",
+            "Primetime",
+            "ShowcaseMovies",
+            "SPOTV",
+            "SPOTV2",
+            "TA-DAA!",
+            "TLC",
+            "TVBSAsia",
+            "tvN",
+            "tvNMovies",
+            "WarnerTV",
+            "WWENetwork"
+        ]
+    },
+    {
+        "url": "https://iptv-sniper.herokuapp.com/epg/redbulltv.php?format=gz",
+        "channels": [
+            "redbulltv.us"
+        ]
+    },
+    {
+        "url": "https://iptv-sniper.herokuapp.com/epg/skycable.php?format=gz",
+        "channels": [
+            "ANIPLUSSD",
+            "CINEMAONE",
+            "CINEMO",
+            "DZMMTELERADYO",
+            "H2HD",
+            "KNOWLEDGECHANNEL",
+            "ONESPORTS",
+            "PBO",
+            "TapActionFlixHD",
+            "TAPMOVIES",
+            "TAPSPORTSHD",
+            "TAPTV",
+            "TECHSTORM",
+            "TRAVELCHANNEL",
+            "TV5"
+        ]
+    }
+]
